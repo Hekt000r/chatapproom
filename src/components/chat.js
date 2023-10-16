@@ -88,9 +88,7 @@ export const Chat = (props) => {
             room
           </Form.Text>
           <br />
-          <Form.Text className="text-muted">
-            Please use the send button, ENTER does not work .
-          </Form.Text>
+          
         </Form.Group>
       </Form>
     </div>
