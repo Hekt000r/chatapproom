@@ -1,3 +1,12 @@
+# Chat room app
+This is a basic project built as a side project/portfolio project.
+Its a basic chatroom using Firebase Firestore and ReactJS
+Todo:
+Add topbar: [OOXX]
+Add signout btn [OOOX]
+Add limit to message history and "read all"[XXXX]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
